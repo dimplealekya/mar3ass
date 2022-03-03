@@ -1,0 +1,4 @@
+x=('dimple','01','mpcsa')
+y=('alekya','02','mpcsb')
+z=x+y
+print(z)
